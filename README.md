@@ -6,10 +6,12 @@ Infinity Shell adalah webshell yang dibuat dengan bahasa pemrograman PHP, selain
 [![Stage](https://img.shields.io/badge/Release-Beta-green.svg)]()
 
 # Author
-- Bibib
+- <a href="https://github.com/bi2b">Bibib</a> <br>
 - Author Team : Infinity Cyber Team
+
 # Fitur
 - Upload
 - New File
 - New Folder
+- Coming Soon!
 
