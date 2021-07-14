@@ -7,7 +7,7 @@ Infinity Shell adalah webshell yang dibuat dengan bahasa pemrograman PHP, selain
 
 # Author
 - Bibib
-
+- Author Team : Infinity Cyber Team
 # Fitur
 - Upload
 - New File
