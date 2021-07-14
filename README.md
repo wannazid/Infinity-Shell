@@ -1,4 +1,4 @@
-![alt text](https://github.com/wannazid/Infinity-Shell/blob/main/20210714_234330.png)
+![alt text](https://github.com/wannazid/Infinity-Shell/blob/main/preview_dekstop.png)
 # Infinity Shell
 Infinity Shell adalah webshell yang dibuat dengan bahasa pemrograman PHP, selain itu ukuran kecil dan UI simple.
 
