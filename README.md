@@ -13,5 +13,8 @@ Infinity Shell adalah webshell yang dibuat dengan bahasa pemrograman PHP, selain
 - Upload
 - New File
 - New Folder
+- Rename
+- Edit File
+- Download
 - Coming Soon!
 
